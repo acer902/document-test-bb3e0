@@ -10,7 +10,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Exto
+      - title: Tape Sealer GPC-50
         title_url: 'https://themes.stackbit.com/demos/exto/'
         image: images/carton-sealer-GPC-50-0.jpg
         content: |
