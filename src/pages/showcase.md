@@ -22,12 +22,6 @@ sections:
             icon_class: dev
             new_window: false
             no_follow: false
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            icon_class: dev
-            new_window: false
-            no_follow: false
       - title: Fresh
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/7.jpg
