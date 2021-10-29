@@ -17,7 +17,7 @@ sections:
           Tape and seals packed shipper cartons before palletizer
         actions:
           - label: Go to manual
-            url: /manuals/gcp.pdf
+            url: /files/manuals/GPC50.pdf
             style: link
             icon_class: dev
             new_window: false
