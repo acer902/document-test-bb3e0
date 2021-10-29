@@ -16,7 +16,7 @@ sections:
         content: |
           Tape and seals packed shipper cartons before palletizer
         actions:
-          - label: 'Go to '
+          - label: Go to manual
             url: '#'
             style: link
             icon_class: dev
