@@ -15,6 +15,13 @@ sections:
         image: images/carton-sealer-GPC-50-0.jpg
         content: |
           Tape and seals packed shipper cartons before palletizer
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
       - title: Fresh
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/7.jpg
