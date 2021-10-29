@@ -13,7 +13,8 @@ sections:
       - title: Exto
         title_url: 'https://themes.stackbit.com/demos/exto/'
         image: images/carton-sealer-GPC-50-0.jpg
-        content: A portfolio theme for Unibit
+        content: |
+          Tape and seals packed shipper cartons before palletizer
       - title: Fresh
         title_url: 'https://themes.stackbit.com/demos/fresh/'
         image: images/7.jpg
